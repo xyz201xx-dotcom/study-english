@@ -20,3 +20,8 @@
 ## 検証
 
 `npm test` で構文数・カウント上限・保存後の再読込などを検証します。
+
+## 公開
+
+GitHub Pagesで `dist` を公開します。`main` へのプッシュ後、GitHub Actionsがテストを実行してデプロイします。
+公開URL: https://xyz201xx-dotcom.github.io/study-english/
